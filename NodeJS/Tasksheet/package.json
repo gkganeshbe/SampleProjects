@@ -1,0 +1,14 @@
+{
+  "name": "tasksheet",
+  "version": "1.0.0",
+  "description": "SSI Tasksheet",
+  "main": "SSI.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ganesh Kamalakannan",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^10.0.3"
+  }
+}
